@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👨🏾‍💻 I’m a Full-Stack Web Developer<br>📚 I'm currently learning Node JS<br>💬 Ask me about JavaScript ☕️<br>📫 How to reach me: <a href:"mailto=reubenalabi2006@gmail.com">reubenalabi2006@gmail.com</a></p>
+<p align="left">👨🏾‍💻 I’m a Full-Stack Web Developer<br>📚 I'm currently learning Node JS<br>💬 Ask me about JavaScript ☕️<br>📫 How to reach me: <a href="mailto=reubenalabi2006@gmail.com">reubenalabi2006@gmail.com</a></p>
 
 ###
 
