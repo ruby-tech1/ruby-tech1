@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am a Software Developer, who is passionate about Web Development.</p>
+<p align="left">I am a Software Developer</p>
 
 ###
 
