@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>💬 Ask me about Java, Javascript and Typescript<br>📫 How to reach me: reubenalabi2006@gmail.com<br>📚 I'm currently learning python for machine learning</p>
+<p align="left">✨ Creating bugs since ...<br>💬 Ask me about Java, Javascript and Typescript<br>📫 How to reach me: reubenalabi2006@gmail.com<br>📚 I'm currently exploring distributed systems & microservices architecture</p>
 
 ###
 
